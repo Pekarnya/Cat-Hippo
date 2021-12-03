@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.screen{
+max-height: 700px;
+max-width: 1920px;
+border-radius: 0px;
+background-color: #B4DADC;
+background-image: url("/img/hippo_PNG2.png");
+background-repeat: no-repeat;
+}
+.container{
+    max-width: 900px;
+    max-height: 700px;
+    font-family: Poppins;
+    margin-left: 402px;
+    background-color: #FFFFFF;
+    border-radius: 45px;
+    margin: 0px 0px 0px 400px;
+}
+
+.title-h1 {
+    border-radius: nullpx;
+    font-size: 24px;
+    line-height: 36px;
+    line-height: 100%;
+    color: black;
+    margin: 95px 340px 0 287px;
+}
+ .place{
+     margin: 32px 201px 0 173px;
+ }
+ .btn-google {
+     width: 191px;
+ }
+ .btn-facebook {
+     width: 191px;
+ }
+#menu-width{
+    width: fit-content;
+}
+
+.placement-button{
+    font-family: Telex;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: top;
+    margin: 27px 79px 40px 619px;
+    
+}
+
+#QR{
+    margin: 43px 364px 31px 364px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    size: 57px 35px;
+    color: #B1A0A0;   
+}
+
+.verification{
+    width: 365px;
+    margin: 31px 206px 49px 200px;
+}
+
+#sign{
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 41px 201px;
+}
+.sign{
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 365px;
+    height: 46px;
+}
+.log{
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #BDADAD;
+    margin: 33px 200px 102px 200px;
+    width: 272px;
+    height: 24px;
+}
+.left-side{
+    background: #B4DADC;
+
+}
+#Greetings{
+    height: 68px;
+    width: 302px;
+    left: 30px;
+    top: 112px;
+    border-radius: nullpx;
+    text-align: left;
+    color: #FFFFFF;
+    vertical-align: top;
+    font-family: Telex;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 112px 70px 16px 32px;
+}
+
+#hi{
+    position: relative;
+
+}
